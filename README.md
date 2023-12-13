@@ -1,4 +1,5 @@
 # Chess-By-Rohit
+"IT IS VERT EASY WHERE YOU CAN USE THIS AS A PROJECT, JUST YOU HAVE TO DOWNLOAD ALL THESE FILES INTO A DESIRED FOLDER AND RUN THE HTML FILE"
 # Chess Game
 
 A simple chess game implemented using HTML, CSS, and JavaScript.
